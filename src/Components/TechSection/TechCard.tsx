@@ -55,3 +55,4 @@ const TechCard = ({ tech, isAdded, onAddToStack }: TechCardProps) => {
 };
 
 export default TechCard;
+
