@@ -46,3 +46,6 @@ Conditional rendering means displaying specific UI components based on boolean c
 Parent to Child: Data is passed down through props (for example, passing the technologies array from TechSection to TechGrid).
 
 Child to Parent: The parent passes down a callback function as a prop (like onAddToStack). When an event occurs in the child, it executes that callback function to send data back up to the parent.
+
+
+Now Try Out Our DevStack Web
