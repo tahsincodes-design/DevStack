@@ -1,7 +1,7 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
-/* Centralized brand gradient definition */
+/* Centralized brand gradient /
 @layer utilities {
   .brand-gradient {
     background-image: linear-gradient(to right, #f97316, #ec4899, #8b5cf6);
